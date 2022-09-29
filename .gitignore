@@ -132,3 +132,4 @@ dmypy.json
 /media
 *.mp3
 *.mp4
+.DS_Store
